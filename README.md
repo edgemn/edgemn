@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/edgardmorais">
+  <a href="https://linkedin.com/in/Edgardmorais">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:edgardmorais504@gmail.com">
+  <a href="mailto:Edgardmorais504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=for-the-badge" alt="Open to Work"/>
@@ -32,13 +32,15 @@ I've maintained large legacy applications that support government operations and
 ---
 
 ## 🛠️ Tech Stack
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+</p>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,26 +95,26 @@ Where I can contribute to building **reliable, scalable systems** while continui
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/edgardmorais">
-    <img src="https://img.shields.io/badge/LinkedIn-Edgar_Morais-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/Edgardmorais">
+    <img src="https://img.shields.io/badge/LinkedIn-Edgard_Morais-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:edgardmorais504@gmail.com">
-    <img src="https://img.shields.io/badge/Email-edgardmorais504@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/>
+  <a href="mailto:Edgardmorais504@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Edgardmorais504@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgardmorais&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edgardmorais&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardmorais&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgardmorais&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edgardmorais&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Edgardmorais&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
